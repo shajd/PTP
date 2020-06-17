@@ -3,7 +3,7 @@ import socket
 import struct
 
 #set up ip and port
-ServiceManagerIP = "192.168.150.25"
+ServiceManagerIP = "10.0.2.15"
 ServiceManagerPort = 42424
 
 buf_totlen = 400
